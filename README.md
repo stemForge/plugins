@@ -5,7 +5,7 @@ Claude-Code-Plugins von Stephan Schmidt, gebaut mit kit aus gepinnten Quellen. N
 
 | Plugin | Inhalt |
 |---|---|
-| `dev` | Ideen-Eingang `ssc-pour` und die Engineering-Skills von Matt Pocock ([mattpocock/skills](https://github.com/mattpocock/skills)) |
+| `dev` | Ideen-Eingang `ssc-pour` und alle 37 Skills von Matt Pocock ([mattpocock/skills](https://github.com/mattpocock/skills)) |
 
 ## Installation
 
