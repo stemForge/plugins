@@ -1,0 +1,13 @@
+{
+  "name": "stemforge",
+  "owner": {
+    "name": "Stephan Schmidt"
+  },
+  "plugins": [
+    {
+      "name": "dev",
+      "source": "./plugins/dev",
+      "description": "Ideen-Eingang mit ssc-pour und die Engineering-Skills von Matt Pocock (mattpocock/skills)."
+    }
+  ]
+}
