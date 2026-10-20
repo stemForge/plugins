@@ -5,5 +5,6 @@
     "activityBar.inactiveForeground": "#FFFFFFAA",
     "statusBar.background": "#7E22CE",
     "statusBar.foreground": "#FFFFFF"
-  }
+  },
+  "window.title": "🟪 ${rootName}${separator}${dirty}${activeEditorShort}"
 }
